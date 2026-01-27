@@ -9,9 +9,10 @@ Technical and scientific writer specialising in quantum computing software, with
 – [Marketing & Product Content](marketing.html)
 
 ## Elsewhere
-– LinkedIn: https://www.linkedin.com/in/kirsty-mcghee-8343361ab/
 
-– Google Scholar: [https://scholar.google.com/…](https://scholar.google.com/citations?user=7ZtyO88AAAAJ&hl=en)
+– <a href="https://www.linkedin.com/in/kirsty-mcghee-8343361ab/" target="_blank" rel="noopener">LinkedIn</a>
+
+– <a href="https://scholar.google.com/citations?hl=en&user=7ZtyO88AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
 
 ## CV
 – [Download CV (PDF)](Kirsty_McGhee_CV.pdf)
