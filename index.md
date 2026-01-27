@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Dr Kirsty McGhee
 
 Technical and scientific writer specialising in quantum computing software, with a PhD in materials science and photonics.
