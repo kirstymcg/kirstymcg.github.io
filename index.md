@@ -1,6 +1,6 @@
 # Dr Kirsty McGhee
 
-Technical writer working on quantum computing software.
+Technical and scientific writer working on quantum computing software.
 
 ## Work
 
