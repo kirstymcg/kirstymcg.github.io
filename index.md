@@ -5,6 +5,9 @@ layout: default
 
 # Dr Kirsty McGhee
 
+<img src="headshot.jpg" alt="Photo of Kirsty McGhee" width="180">
+
+
 Technical and scientific writer specialising in quantum computing software, with a PhD in materials science and photonics.
 
 – [Technical Documentation](technical-documentation.html)
