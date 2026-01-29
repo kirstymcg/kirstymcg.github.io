@@ -4,12 +4,10 @@ layout: default
 
 <link rel="stylesheet" href="style.css">
 
-# Dr Kirsty McGhee
-
 <img src="assets/images/kmcghee.jpg" alt="Photo of Kirsty McGhee" width="180">
 
 
-Technical and scientific writer specialising in quantum computing software, with a PhD in materials science and photonics.
+Technical and scientific writer specialising in software for quantum computing research, with a PhD in materials science and photonics.
 
 – [Technical Documentation](technical-documentation.html)
 
@@ -17,11 +15,28 @@ Technical and scientific writer specialising in quantum computing software, with
 
 – [Marketing & Product Content](marketing.html)
 
-## Elsewhere
+## Find me 
 
-– <a href="https://www.linkedin.com/in/kirsty-mcghee-8343361ab/" target="_blank" rel="noopener">LinkedIn</a>
+<a href="mailto:kirsty.mcghee@yourdomain.com">
+  <img src="assets/icons/email.png"
+       alt="Email"
+       style="height:1.1em; vertical-align:middle; margin-right:0.4em;">Email
+</a>
 
-– <a href="https://scholar.google.com/citations?hl=en&user=7ZtyO88AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+<a href="https://www.linkedin.com/in/kirsty-mcghee-8343361ab/"
+    target="_blank" rel="noopener">
+    <img src="assets/icons/linkedin.png"
+        alt="LinkedIn"
+        style="height:1.1em; vertical-align:middle; margin-right:0.4em;">LinkedIn
+</a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=7ZtyO88AAAAJ"
+    target="_blank" rel="noopener">
+    <img src="assets/icons/google-scholar.png"
+        alt="Google Scholar"
+        style="height:1.1em; vertical-align:middle; margin-right:0.4em;">Google Scholar
+</a>
+
 
 ## CV
-– [Download CV (PDF)](Kirsty_McGhee_CV.pdf)
+[Kirsty McGhee CV (PDF)](Kirsty_McGhee_CV.pdf)
