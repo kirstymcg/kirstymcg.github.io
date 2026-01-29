@@ -6,12 +6,12 @@
   display: block;
   margin: 1rem 0;
 }
-ul {
+.page__content ul {
   list-style-type: disc;
   padding-left: 0;
   margin-left: 0;
 }
 
-li {
+.page__content li {
   margin-bottom: 0.4rem;
 }
