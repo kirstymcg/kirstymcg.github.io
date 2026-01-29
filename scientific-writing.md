@@ -18,9 +18,7 @@ Below are a few select examples of my work:
 - **Title of article or document**  
   <a href="https://www.ossila.com/products/optical-spectrometer" target="_blank">spectrometer</a> · [PDF](assets/pdfs/ossila-article.pdf)
 
-!!!note
-    
-    While some webpages have been updated since I wrote the original material, the linked PDFs reflect my original work.
+**Note**: While some webpages have been updated since I wrote the original material, the linked PDFs reflect my original work.
 
 ## Physics World
 
@@ -31,5 +29,5 @@ Below are a few select examples of my work:
 
 ## Springer Nature
 
-- **Title of article or chapter**  
-  [Read online](https://example.com) · [PDF](assets/pdfs/springer-article.pdf)
+A century of Compton scattering
+  <a href="https://www.nature.com/articles/s42254-023-00576-1" target="_blank">Read online</a> · [PDF](assets/century-of-compton-scattering.pdf)
