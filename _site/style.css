@@ -6,13 +6,4 @@
   display: block;
   margin: 1rem 0;
 }
-/* HARD RESET LIST STYLING */
-.page__content ul {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-  list-style-position: inside !important;
-}
 
-.page__content li {
-  margin-left: 0 !important;
-}
