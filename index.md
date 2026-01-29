@@ -22,7 +22,11 @@ layout: default
 
 [Podcast interviews](podcast-interviews.md)
 
-## Find me 
+## CV
+
+[Kirsty McGhee CV (PDF)](Kirsty_McGhee_CV.pdf)
+
+## Find me elsewhere
 
 <a href="mailto:kirsty.mcghee@yourdomain.com">
   <img src="assets/icons/email.png"
@@ -45,5 +49,4 @@ layout: default
 </a>
 
 
-## CV
-[Kirsty McGhee CV (PDF)](Kirsty_McGhee_CV.pdf)
+

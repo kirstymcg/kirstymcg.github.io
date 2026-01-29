@@ -1,4 +1,4 @@
-# Podcast episodes
+# Podcast interviews
 
 In 2025, I was invited to speak about my scientific writing career on two podcast episodes:
 
