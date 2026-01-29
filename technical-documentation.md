@@ -28,3 +28,5 @@ You can find the Qruise public documentation <a href="https://docs.qruise.com" t
 
 <a href="https://docs.qruise.com/latest/notebooks/control_stack/analogue_digital_converter/" target="_blank">Analogue-to-digital converter</a>
 
+I write and maintain all documentation in Git using Markdown, developing examples and workflows in Python notebooks where appropriate.
+
