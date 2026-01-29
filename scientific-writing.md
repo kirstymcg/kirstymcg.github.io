@@ -15,8 +15,18 @@ I worked for Ossila in the time they were bringing their <a href="https://www.os
 
 Below are a few select examples of my work:
 
-- **Title of article or document**  
-  <a href="https://www.ossila.com/products/optical-spectrometer" target="_blank">spectrometer</a> · [PDF](assets/pdfs/ossila-article.pdf)
+- **Fluorescence and Phosphorescence**  
+  <a href="https://www.ossila.com/pages/fluorescence-phosphorescence" target="_blank">Read online</a> · [PDF](assets/pdfs/Fluorescence-Phosphorescence_Ossila.pdf)
+
+- **What is Spectroscopy? Definition and Types**  
+  <a href="https://www.ossila.com/pages/spectroscopy" target="_blank">Read online</a> · [PDF](assets/pdfs/Spectroscopy_Ossila.pdf)
+
+- **How Does a Spectrometer Work? Principles Explained**  
+  <a href="https://www.ossila.com/pages/spectrometer-working-principles" target="_blank">Read online</a> · [PDF](assets/pdfs/How-Does-a-Spectrometer-Work_Ossila.pdf)
+
+- **Thermally Activated Delayed Fluorescence (TADF) in OLEDs**  
+  <a href="https://www.ossila.com/pages/thermally-activated-delayed-fluorescence" target="_blank">Read online</a> · [PDF](assets/pdfs/Thermally-Activated-Delayed-Fluorescencee_Ossila.pdf)
+
 
 **Note**: While some webpages have been updated since I wrote the original material, the linked PDFs reflect my original work.
 
@@ -29,5 +39,7 @@ Below are a few select examples of my work:
 
 ## Springer Nature
 
-A century of Compton scattering
-  <a href="https://www.nature.com/articles/s42254-023-00576-1" target="_blank">Read online</a> · [PDF](assets/century-of-compton-scattering.pdf)
+During work shadowing at *Nature Reviews Physics*, a *Springer Nature* journal, I wrote an *In retrospect* article on Compton scatteringfor a quantum physics issue of the journal:
+
+- **A century of Compton scattering**
+  <a href="https://www.nature.com/articles/s42254-023-00576-1" target="_blank">Read online</a> · [PDF](assets/pdfs/century-of-compton-scattering.pdf)
