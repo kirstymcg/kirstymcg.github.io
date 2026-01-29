@@ -4,10 +4,8 @@ layout: default
 
 <link rel="stylesheet" href="style.css">
 
-<img src="assets/images/kmcghee.jpg" alt="Photo of Kirsty McGhee" width="180">
+<img style="margin-left:10px;" align="right" src="assets/images/kmcghee.jpg" alt="QuE-MRT" width="400"/>
 
-
-Technical and scientific writer specialising in software for quantum computing research, with a PhD in materials science and photonics.
 
 – [Technical Documentation](technical-documentation.html)
 
