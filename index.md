@@ -7,8 +7,7 @@ layout: default
 <img src="assets/images/kmcghee.jpg"
      alt="Photo of Kirsty McGhee"
      style="float:right;
-            width:250px;
-            margin:0 0 1rem 1.5rem;">
+            width:250px;">
 
 
 
