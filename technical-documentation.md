@@ -30,7 +30,7 @@ You can find the Qruise public documentation <a href="https://docs.qruise.com" t
 
 I write and maintain all documentation in Git using Markdown, developing examples and workflows in Python notebooks where appropriate.
 
-<img src="assets/images/kmcghee.png"
+<img src="assets/images/running-task.png"
      alt="Running a single task"
      style="float:center;
             width:100%;">
