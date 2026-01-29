@@ -13,7 +13,9 @@ layout: default
 ## Technical & scientific writing
 
 [Technical documentation](technical-documentation.html)
+
 [Scientific writing](scientific-writing.html)
+
 [Marketing & product content](marketing.html)
 
 ## Find me 
