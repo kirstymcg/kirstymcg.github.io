@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Dr Kirsty McGhee
 description: Technical and scientific writer specialising in software for quantum computing research, with a PhD in materials science and photonics.
+
+github:
+  is_project_page: false
