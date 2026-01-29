@@ -10,7 +10,7 @@ layout: default
             width:250px;">
 
 
-## Selected technical & scientific writing
+## Technical & scientific writing
 
 – [Technical Documentation](technical-documentation.html)
 
