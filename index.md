@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="style.css">
 
-<img src="assets/images/kmcghee.jpg"
+<img src="assets/images/kmcghee.png"
      alt="Photo of Kirsty McGhee"
      style="float:right;
             width:250px;">
