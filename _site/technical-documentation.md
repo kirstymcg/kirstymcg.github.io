@@ -1,4 +1,7 @@
-# Technical documentation
+---
+layout: default
+title: Technical documentation
+---
 
 Since the beginning of 2024, I have been the sole technical writer at Qruise, a software company developing software to accelerate scientific research, with a strong focus on quantum computing.
 
