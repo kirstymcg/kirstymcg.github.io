@@ -32,10 +32,16 @@ Below are a few select examples of my work:
 
 ## Physics World
 
-*Physics World* is the 
+*Physics World* is the world's leading physics magazine and a comprehensive multimedia science news platform published monthly by the Institute of Physics (IOP).
+
+During my PhD and postdoc, I wrote *Research updates* 
+
+I've selected a few examples of my articles:
 
 - **Title of article**  
   [Read online](https://example.com) · [PDF](assets/pdfs/physics-world-article.pdf)
+
+You can find the rest on my *Physics World* <a href="https://physicsworld.com/author/kirsty-mcghee/" target="_blank">author page</a>.
 
 ## Springer Nature
 
