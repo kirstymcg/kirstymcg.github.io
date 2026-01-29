@@ -18,15 +18,14 @@ layout: default
 
 [Marketing & product content](marketing.md)
 
-## Podcast interviews
-
-[Podcast interviews](podcast-interviews.md)
 
 ## CV
 
 [Kirsty McGhee CV (PDF)](Kirsty_McGhee_CV.pdf)
 
 ## Find me elsewhere
+
+[Podcast interviews](podcast-interviews.md)
 
 <a href="mailto:kirsty.mcghee@yourdomain.com">
   <img src="assets/icons/email.png"
