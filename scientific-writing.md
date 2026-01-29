@@ -25,7 +25,7 @@ Below are a few select examples of my work:
   <a href="https://www.ossila.com/pages/spectrometer-working-principles" target="_blank">Read online</a> · [PDF](assets/pdfs/How-Does-a-Spectrometer-Work_Ossila.pdf)
 
 - **Thermally Activated Delayed Fluorescence (TADF) in OLEDs**  
-  <a href="https://www.ossila.com/pages/thermally-activated-delayed-fluorescence" target="_blank">Read online</a> · [PDF](assets/pdfs/Thermally-Activated-Delayed-Fluorescencee_Ossila.pdf)
+  <a href="https://www.ossila.com/pages/thermally-activated-delayed-fluorescence" target="_blank">Read online</a> · <a href="assets/pdfs/Thermally-Activated-Delayed-Fluorescencee_Ossila.pdf" target="_blank">PDF</a>
 
 
 **Note**: While some webpages have been updated since I wrote the original material, the linked PDFs reflect my original work.
