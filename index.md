@@ -12,11 +12,11 @@ layout: default
 
 ## Technical & scientific writing
 
-– [Technical Documentation](technical-documentation.html)
+* [Technical Documentation](technical-documentation.html)
 
-– [Scientific Writing](scientific-writing.html)
+* [Scientific Writing](scientific-writing.html)
 
-– [Marketing & Product Content](marketing.html)
+* [Marketing & Product Content](marketing.html)
 
 ## Find me 
 
