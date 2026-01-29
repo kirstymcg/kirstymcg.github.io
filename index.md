@@ -4,7 +4,15 @@ layout: default
 
 <link rel="stylesheet" href="style.css">
 
-<img style="margin-left:10px;" align="right" src="assets/images/kmcghee.jpg" alt="QuE-MRT" width="400"/>
+<img src="assets/images/kmcghee.jpg"
+     alt="Photo of Kirsty McGhee"
+     style="float:right;
+            width:180px;
+            height:180px;
+            border-radius:50%;
+            object-fit:cover;
+            margin:0 0 1rem 1.5rem;">
+
 
 
 – [Technical Documentation](technical-documentation.html)
