@@ -48,7 +48,7 @@ I've selected a few examples of my articles:
 - **Photonic band structure created in electrically driven OLED microcavities**  
   <a href="https://physicsworld.com/a/photonic-band-structure-created-in-electrically-driven-oled-microcavities/" target="_blank">Read online</a> · [PDF](assets/pdfs/Photonic-band-structure_PhysicsWorld.pdf)
 
-You can find the rest on my *Physics World* <a href="https://physicsworld.com/author/kirsty-mcghee/" target="_blank">author page</a>.
+You can find my other articles on my *Physics World* <a href="https://physicsworld.com/author/kirsty-mcghee/" target="_blank">author page</a>.
 
 ## Springer Nature
 
