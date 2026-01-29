@@ -52,7 +52,7 @@ You can find my other articles on my *Physics World* <a href="https://physicswor
 
 ## Springer Nature
 
-During work shadowing at *Nature Reviews Physics*, a *Springer Nature* journal, I wrote an *In retrospect* article on Compton scatteringfor a quantum physics issue of the journal:
+During work shadowing at *Nature Reviews Physics*, a *Springer Nature* journal, I wrote an *In retrospect* article on Compton scattering for a quantum physics issue of the journal:
 
 - **A century of Compton scattering**
   <a href="https://www.nature.com/articles/s42254-023-00576-1" target="_blank">Read online</a> · [PDF](assets/pdfs/century-of-compton-scattering.pdf)

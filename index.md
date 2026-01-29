@@ -16,7 +16,7 @@ layout: default
 
 [Scientific writing](scientific-writing.md)
 
-[Marketing & product content](marketing.md)
+[Marketing & communications](marketing.md)
 
 ## Interviews
 

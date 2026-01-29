@@ -5,7 +5,7 @@ title: Technical documentation
 
 # Technical documentation
 
-Since the beginning of 2024, I have been the sole technical writer at Qruise, a software company developing software to accelerate scientific research, with a strong focus on quantum computing.
+Since the beginning of 2024, I have been the sole technical writer at <a href="https://qruise.com" target="_blank">Qruise</a>, a company developing software to accelerate scientific research, with a strong focus on quantum computing.
 
 ### Responsibilities
 
