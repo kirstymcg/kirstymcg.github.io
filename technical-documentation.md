@@ -15,9 +15,11 @@ In this role, I am responsible for the company’s public-facing technical docum
 - writing, editing, and keeping documentation up to date in line with product development  
 - coordinating inputs across scientific and software teams to ensure clarity, accuracy, and consistency
 
+I write and maintain all documentation in Git using Markdown, developing examples and workflows in Python notebooks where appropriate.
+
 ### Selected docs
 
-You can find the Qruise public documentation <a href="https://docs.qruise.com" target="_blank">here</a>. Below, I’ve selected a small number of representative examples:
+You can find Qruise's public documentation <a href="https://docs.qruise.com" target="_blank">here</a>. Below, I’ve selected a small number of representative examples:
 
 
 <a href="h[ttps://docs.qruise.com](https://docs.qruise.com/latest/qruiseos/getting-started/dashboard/)" target="_blank">Navigating the dashboard</a>
@@ -30,7 +32,6 @@ You can find the Qruise public documentation <a href="https://docs.qruise.com" t
 
 <a href="https://docs.qruise.com/latest/notebooks/control_stack/analogue_digital_converter/" target="_blank">Analogue-to-digital converter</a>
 
-I write and maintain all documentation in Git using Markdown, developing examples and workflows in Python notebooks where appropriate.
 
 <img src="assets/images/running-task.png"
      alt="Running a single task"
