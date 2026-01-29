@@ -18,10 +18,10 @@ In 2026, I initiated a technical blog series exploring key challenges in quantum
 - **Distorted Reality: How pulse distortions undermine quantum control and how to correct for them**
   <a href="https://www.qruise.com/resources/blog/distorted-reality" target="_blank">Read online</a> · [PDF](assets/pdfs/Distorted-Reality_Qruise.pdf)
 
-  <img src="assets/images/Pulse_Distortion_1.png"
-     alt="Running a single task"
-     style="float:center;
-            width:100%;">
+<img src="assets/images/Pulse_Distortion_1.png"
+    alt="Running a single task"
+    style="float:center;
+        width:100%;">
 
 Prior to this series, I wrote a standalone technical blog post on quantum noise spectroscopy:
 
