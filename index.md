@@ -18,6 +18,8 @@ layout: default
 
 [Marketing & communications](marketing.md)
 
+[Research publications](research-publications.md)
+
 ## Interviews
 
 [Podcast interviews](podcast-interviews.md)

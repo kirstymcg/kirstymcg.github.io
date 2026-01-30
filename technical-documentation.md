@@ -22,7 +22,7 @@ I write and maintain all documentation in Git using Markdown, developing example
 You can find Qruise's public documentation <a href="https://docs.qruise.com" target="_blank">here</a>. Below, I’ve selected a small number of representative examples:
 
 
-<a href="h[ttps://docs.qruise.com](https://docs.qruise.com/latest/qruiseos/getting-started/dashboard/)" target="_blank">Navigating the dashboard</a>
+<a href="h[ttps://docs.qruise.com](https://docs.qruise.com/latest/qruiseos/getting-started/dashboard/" target="_blank">Navigating the dashboard</a>
 
 <a href="h[ttps://docs.qruise.com](https://docs.qruise.com/latest/qruiseos/user-guides/measurements-tasks/running_single_task/)" target="_blank">Running a single task</a>
 
