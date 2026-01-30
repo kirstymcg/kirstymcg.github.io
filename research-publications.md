@@ -7,7 +7,7 @@ title: Research publications
 
 During my PhD, I published several research articles in esteemed, peer-reviewed scientific journals. Here are a select few:
 
-- **McGhee, K. E.**, *et al*. Ultrafast Optical Control of Polariton Energy in an Organic Semiconductor Microcavity. *Advanced Optical Materials* **11** (2023), 2300262. <a href="https://doi.org/10.1002/adom.202300262" target="_blank">doi:10.1002/adom.202300262</a> · [PDF](assets/pdfs/adv-opt-mat.pdf)
+- **McGhee, K. E.**, *et al*. Ultrafast Optical Control of Polariton Energy in an Organic Semiconductor Microcavity. *Advanced Optical Materials* **11**, 2300262 (2023). <a href="https://doi.org/10.1002/adom.202300262" target="_blank">doi:10.1002/adom.202300262</a> · [PDF](assets/pdfs/adv-opt-mat.pdf)
 
 - **McGhee, K. E.**, *et al*. Polariton condensation in a microcavity using a highly-stable molecular dye. *Journal of Materials Chemistry C* **10**, 4187–4195 (2022). <a href="https://doi.org/10.1039/D1TC05554B" target="_blank">doi:10.1039/D1TC05554B</a> · [PDF](assets/pdfs/jmaterialchemc.pdf)
 

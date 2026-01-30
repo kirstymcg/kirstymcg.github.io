@@ -9,7 +9,21 @@ Since the beginning of 2024, I have been the sole marketing and communications w
 
 ## News & press releases
 
+MRI 
+QBlox or treq? 
+
 ## Website content & design
+
+I spearheaded a redesign of the company website, leading the content restructure and working closely with designers and developers to improve clarity and usability. This included redesigning the landing page, industry pages, product pages, and site navigation. You can check out the website <a href="https://qruise.com" target="_blank">here</a> and select examples are shown below:
+
+- **Landing page**  
+  <a href="https://qruise.com" target="_blank">View online</a> · [PDF](assets/pdfs/landing.pdf)
+
+- **Magnetic resonance industry page**  
+  <a href="https://www.qruise.com/industries/magnetic-resonance" target="_blank">View online</a> · [PDF](assets/pdfs/magnetic-resonance.pdf)
+
+- **QruiseOS product page**  
+  <a href="https://www.qruise.com/products/qruise-os" target="_blank">View online</a> · [PDF](assets/pdfs/qruiseos.pdf)
 
 ## Blog posts
 
@@ -30,6 +44,8 @@ Prior to this series, I wrote a standalone technical blog post on quantum noise 
 
 ## Product updates & release notes
 
-## Flyers & marketing materials
+## Flyers & videos
+
+
 
 ## Social media
