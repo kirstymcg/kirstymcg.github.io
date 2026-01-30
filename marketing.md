@@ -50,6 +50,14 @@ Prior to this series, I wrote a standalone technical blog post on quantum noise 
 
 ## Product updates & release notes
 
+I write the quarterly product updates and the monthly <a href="https://www.qruise.com/resources/release-notes" target="_blank">release notes</a>.
+
+- **Summer product update**  
+  <a href="https://www.qruise.com/news-and-events/news/2025-07-product-update" target="_blank">Read online</a> · [PDF](assets/pdfs/summer-product-update.pdf)
+
+- **October release notes**  
+  <a href="https://www.qruise.com/resources/release-notes/v2025_10" target="_blank">Read online</a> · [PDF](assets/pdfs/oct-release.pdf)
+
 ## Flyers & videos
 
 
@@ -58,7 +66,7 @@ Prior to this series, I wrote a standalone technical blog post on quantum noise 
 
 I manage the company <a href="https://www.linkedin.com/company/qruise/" target="_blank">LinkedIn</a>, <a href="https://x.com/Qruise_ai" target="_blank">X</a>, and <a href="https://bsky.app/profile/qruise.bsky.social" target="_blank">Bluesky</a> pages, writing posts, coordinating accompanying graphics, and engaging with other users and pages. Since starting at Qruise in 2024, our LinkedIn followers have tripled. 
 
-<img src="assets/images/social-media
+<img src="assets/images/social-media.pdf"
     style="float:center;
         width:100%;">
 
