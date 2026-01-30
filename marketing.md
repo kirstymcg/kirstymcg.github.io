@@ -9,8 +9,14 @@ Since the beginning of 2024, I have been the sole marketing and communications w
 
 ## News & press releases
 
-MRI 
-QBlox or treq? 
+I write all news articles and press releases for Qruise, which can be found <a href="https://www.qruise.com/news-and-events/news" target="_blank">here</a>, as well as the <a href="https://newsletter.qruise.com/" target="_blank">newsletter</a>. A selection is shown below:
+
+- **Qruise expands into magnetic resonance with new simulation and control software, Resonance**  
+  <a href="https://www.qruise.com/news-and-events/news/resonance-for-MR-launch" target="_blank">Read online</a> · [PDF](assets/pdfs/resonance-release.pdf)
+
+- **Qruise to help build open architecture quantum testbed with £1.65M Innovate UK grant**  
+  <a href="https://www.qruise.com/news-and-events/news/open-architecture-quantum-testbed" target="_blank">Read online</a> · [PDF](assets/pdfs/oaq-testbed.pdf)
+
 
 ## Website content & design
 
@@ -49,3 +55,10 @@ Prior to this series, I wrote a standalone technical blog post on quantum noise 
 
 
 ## Social media
+
+I manage the company <a href="https://www.linkedin.com/company/qruise/" target="_blank">LinkedIn</a>, <a href="https://x.com/Qruise_ai" target="_blank">X</a>, and <a href="https://bsky.app/profile/qruise.bsky.social" target="_blank">Bluesky</a> pages, writing posts, coordinating accompanying graphics, and engaging with other users and pages. Since starting at Qruise in 2024, our LinkedIn followers have tripled. 
+
+<img src="assets/images/social-media
+    style="float:center;
+        width:100%;">
+
