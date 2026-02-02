@@ -7,3 +7,16 @@ github:
 
 show_github: false
 
+navigation:
+  - title: Home
+    url: /
+  - title: Technical documentation
+    url: /technical-documentation/
+  - title: Scientific writing
+    url: /scientific-writing/
+  - title: Marketing & communications
+    url: /marketing/
+  - title: Research publications
+    url: /research-publications/
+  - title: Podcast interviews
+    url: /podcast-interviews/
