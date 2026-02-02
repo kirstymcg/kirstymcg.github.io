@@ -60,6 +60,21 @@ I write the quarterly product updates and the monthly <a href="https://www.qruis
 
 ## Flyers & videos
 
+I create company and product flyers and videos for use at scientific conferences and for other marketing purposes, curating the content, producing high-quality scientific plots, and working with external designers to finalise production.
+
+- **QruiseOS flyer**  
+  [PDF](assets/pdfs/QruiseOS-flyer.pdf)
+
+- **QruiseML video**  
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/64leSn8VTbA"
+    title="QruiseML video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 
 
 ## Social media
