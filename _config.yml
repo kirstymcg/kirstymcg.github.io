@@ -4,3 +4,6 @@ description: Technical and scientific writer specialising in software for quantu
 
 github:
   is_project_page: false
+
+show_github: false
+
