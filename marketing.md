@@ -81,6 +81,6 @@ I create company and product flyers and videos for use at scientific conferences
 I manage the company <a href="https://www.linkedin.com/company/qruise/" target="_blank">LinkedIn</a>, <a href="https://x.com/Qruise_ai" target="_blank">X</a>, and <a href="https://bsky.app/profile/qruise.bsky.social" target="_blank">Bluesky</a> pages, writing posts, coordinating accompanying graphics, and engaging with other users and pages. Since starting at Qruise in 2024, our LinkedIn followers have tripled. 
 
 <img src="assets/images/social-media.png"
-    style="float:center;
-        width:100%;">
-
+     alt="Social media"
+     style="float:center;
+            width:100%;">
