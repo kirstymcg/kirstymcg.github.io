@@ -3,9 +3,6 @@ layout: default
 title: Scientific writing 
 ---
 
-{% include nav.html %}
-
-
 # Scientific writing 
 
 I worked as a scientific writer for several years during my PhD and postdoc, writing scientific news articles and wiki-style educational content.
@@ -31,7 +28,7 @@ I've selected a few examples of my articles:
 You can find my other articles on my *Physics World* <a href="https://physicsworld.com/author/kirsty-mcghee/" target="_blank">author page</a>.
 
 <img src="assets/images/Exciton-polariton-illustration-pw.jpg"
-     alt="Social media"
+     alt="Physics world"
      style="float:center;
             width:100%;">
 
@@ -58,6 +55,11 @@ Below are a few select examples of my work:
 
 **Note**: While some webpages have been updated since I wrote the original material, the linked PDFs reflect my original work.
 
+
+<img src="assets/images/ossila.svg"
+     alt="Ossila"
+     style="float:center;
+            width:100%;">
 
 ## Springer Nature
 
