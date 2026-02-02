@@ -68,6 +68,7 @@ I create company and product flyers and videos for use at scientific conferences
 - **QruiseML video**  
   <iframe
     width="100%"
+    height="300"
     src="https://www.youtube.com/embed/64leSn8VTbA"
     title="QruiseML video"
     frameborder="0"

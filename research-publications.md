@@ -22,7 +22,6 @@ Further publications can be found on my <a href="https://scholar.google.com/cita
   <figcaption>
     From 
     <a href="https://doi.org/10.1002/adom.202300262" target="_blank">
-      doi:10.1002/adom.202300262
-    </a>.
+      doi:10.1002/adom.202300262</a>.
   </figcaption>
 </figure>
