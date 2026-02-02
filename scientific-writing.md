@@ -27,6 +27,11 @@ I've selected a few examples of my articles:
 
 You can find my other articles on my *Physics World* <a href="https://physicsworld.com/author/kirsty-mcghee/" target="_blank">author page</a>.
 
+<img src="assets/images/Exciton-polariton-illustration-pw.jpg"
+     alt="Social media"
+     style="float:center;
+            width:100%;">
+
 ## Ossila
 
 Ossila develops and manufactures equipment, materials, and components for advanced scientific research, specialising in organic electronics, photovoltaics, and perovskite solar cells.
