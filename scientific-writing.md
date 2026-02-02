@@ -3,6 +3,9 @@ layout: default
 title: Scientific writing 
 ---
 
+{% include nav.html %}
+
+
 # Scientific writing 
 
 I worked as a scientific writer for several years during my PhD and postdoc, writing scientific news articles and wiki-style educational content.
