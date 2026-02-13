@@ -26,7 +26,7 @@ layout: default
 
 ## CV
 
-[Kirsty McGhee CV (PDF)](Kirsty_McGhee_CV.pdf)
+<a href="assets/pdfs/KMcGhee-CV-Feb26.pdf">Kirsty McGhee CV (PDF)</a>
 
 ## Find me elsewhere
 
