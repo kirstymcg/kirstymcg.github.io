@@ -39,7 +39,15 @@ In 2026, I initiated a technical blog series exploring key challenges in quantum
   <a href="https://www.qruise.com/resources/blog/distorted-reality" target="_blank">Read online</a> · [PDF](assets/pdfs/Distorted-Reality_Qruise.pdf)
 
 <img src="assets/images/Pulse_Distortion_1.png"
-    alt="Running a single task"
+    alt="Distorted Reality graphic"
+    style="float:center;
+        width:100%;">
+
+- **Growing Pains: Understanding the challenges in scaling the number of qubits**  
+  <a href="https://www.qruise.com/resources/blog/growing-pains" target="_blank">Read online</a> · [PDF](assets/pdfs/Growing-Pains_Qruise.pdf)
+
+<img src="assets/images/Growing_Pains_3.png"
+    alt="Growing Pains graphic"
     style="float:center;
         width:100%;">
 
