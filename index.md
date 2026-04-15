@@ -9,7 +9,6 @@ layout: default
      style="float:right;
             width:220px;">
 
-
 ## Technical & scientific writing
 
 [Technical documentation](technical-documentation.md)
@@ -26,7 +25,7 @@ layout: default
 
 ## CV
 
-<a href="assets/pdfs/KMcGhee-CV-Feb26.pdf">Kirsty McGhee CV (PDF)</a>
+<a href="assets/pdfs/KMcGhee-CV.pdf">Kirsty McGhee CV (PDF)</a>
 
 ## Find me elsewhere
 
@@ -38,17 +37,14 @@ layout: default
 
 <a href="https://www.linkedin.com/in/kirsty-mcghee-8343361ab/"
     target="_blank" rel="noopener">
-    <img src="assets/icons/linkedin.png"
+<img src="assets/icons/linkedin.png"
         alt="LinkedIn"
         style="height:1.1em; vertical-align:middle; margin-right:0.4em;">LinkedIn
 </a>
 
 <a href="https://scholar.google.com/citations?hl=en&user=7ZtyO88AAAAJ"
     target="_blank" rel="noopener">
-    <img src="assets/icons/google-scholar.png"
+<img src="assets/icons/google-scholar.png"
         alt="Google Scholar"
         style="height:1.1em; vertical-align:middle; margin-right:0.4em;">Google Scholar
 </a>
-
-
-
